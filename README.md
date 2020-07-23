@@ -2,6 +2,8 @@
 
 Os programas aqui foram desenvolvidos a partir do Curso de Lógica de Programação certificado pelo SENAI BA.
 
+---
+
 ## Conteúdos abordados
 
 - Calculadora
@@ -20,5 +22,7 @@ Os programas aqui foram desenvolvidos a partir do Curso de Lógica de Programaç
    - Repita...até)
    - Função
    - Função (randi)
-
-- 
+   
+   ---
+   
+![](img/calculadora.png)
